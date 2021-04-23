@@ -1,6 +1,6 @@
 # glm-backend
 
 # Ao  baixar rodar um dos comandos abaixo:
-### NPM Install 
+### Npm Install 
 # or 
 ### Yarn Install
